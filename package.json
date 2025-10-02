@@ -1,0 +1,23 @@
+{
+  "name": "techforge4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flaviagab/TechForge4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flaviagab/TechForge4/issues"
+  },
+  "homepage": "https://github.com/Flaviagab/TechForge4#readme"
+}
