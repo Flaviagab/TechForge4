@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 5
 class Agenda {
     constructor() {
@@ -21,4 +19,5 @@ const agenda = new Agenda();
 agenda.adicionarCompromissos("Reunião às 10h");
 agenda.adicionarCompromissos("Dentista às 15h");
 agenda.listarCompromissos();
+export {};
 //# sourceMappingURL=exercicio5.js.map

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 5
 class Funcionario {
     constructor(nome, salario) {
@@ -37,4 +35,5 @@ const funcionarios = [
     new Operario("Ana", 1800)
 ];
 calcularSalarioBonus(funcionarios);
+export {};
 //# sourceMappingURL=exercicio5.js.map

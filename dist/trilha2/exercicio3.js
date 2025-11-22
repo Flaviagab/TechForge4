@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 3
 class Produto {
     constructor(nome, preco, quantidade) {
@@ -14,4 +12,5 @@ class Produto {
 // Exemplo
 const produto = new Produto("Caneta", 2.5, 100);
 console.log("Valor total em estoque: R$" + produto.calcularEstoque());
+export {};
 //# sourceMappingURL=exercicio3.js.map

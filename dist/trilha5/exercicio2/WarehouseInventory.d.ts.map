@@ -1,0 +1,1 @@
+{"version":3,"file":"WarehouseInventory.d.ts","sourceRoot":"","sources":["../../../src/trilha5/exercicio2/WarehouseInventory.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,gBAAgB,CAAC;AAE3C,qBAAa,kBAAmB,SAAQ,SAAS;IAE7C,OAAO,CAAC,IAAI,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,GAAG,IAAI;IAQ7C,UAAU,CAAC,IAAI,EAAE,MAAM,GAAG,IAAI;IAI9B,YAAY,IAAI,MAAM,CAAC,MAAM,EAAE,MAAM,CAAC;CAGzC"}

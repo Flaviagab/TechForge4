@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 4
 class Animal {
     constructor(energia) {
@@ -44,4 +42,5 @@ const animais = [
     new Passaro(15)
 ];
 alimentarAnimais(animais);
+export {};
 //# sourceMappingURL=exercicio4.js.map

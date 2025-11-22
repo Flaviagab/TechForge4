@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 1
 class Veiculo {
     mover() {
@@ -20,4 +18,5 @@ const carro = new Carro();
 const bicicleta = new Bicicleta();
 carro.mover();
 bicicleta.mover();
+export {};
 //# sourceMappingURL=exercicio1.js.map

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Loja {
     constructor(produtos) {
         this.produtos = produtos;
@@ -17,4 +15,5 @@ const produtosAdicionados = [
 const loja = new Loja(produtosAdicionados);
 const produto1 = loja.buscarProdutoPorCodigo(2);
 console.log("Produto: ", produto1);
+export {};
 //# sourceMappingURL=exercicio3.js.map

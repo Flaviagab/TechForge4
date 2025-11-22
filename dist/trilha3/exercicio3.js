@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 3
 class Pagamento {
 }
@@ -40,4 +38,5 @@ const pagamentos = [
     new PagamentoBoleto()
 ];
 processarPagamentos(pagamentos);
+export {};
 //# sourceMappingURL=exercicio3.js.map

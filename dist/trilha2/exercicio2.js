@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 2
 class Livro {
     constructor(titulo, autor, paginas, lido) {
@@ -16,4 +14,5 @@ class Livro {
 //Exemplo
 const livro = new Livro("1984", "George Orwell", 328, false);
 livro.livroConcluido();
+export {};
 //# sourceMappingURL=exercicio2.js.map

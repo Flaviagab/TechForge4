@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 2
 class FiguraGeometrica {
 }
@@ -43,4 +41,5 @@ const figuras = [
     new Triangulo(6, 3)
 ];
 exibirAreas(figuras);
+export {};
 //# sourceMappingURL=exercicio2.js.map

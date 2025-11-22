@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class BibliotecaGestao {
     constructor(arrayLivros) {
         this.arrayLivros = arrayLivros;
@@ -41,4 +39,5 @@ const livrosDisponiveis = biblioteca.obterLivrosDisponiveis();
 livrosDisponiveis.forEach(livro => {
     console.log(`- ${livro.titulo} por ${livro.autor} [${livro.genero}]`);
 });
+export {};
 //# sourceMappingURL=exercicio5.js.map

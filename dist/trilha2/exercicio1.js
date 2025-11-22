@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 1
 class ContaBancaria {
     constructor(titular, saldo) {
@@ -29,4 +27,5 @@ class ContaBancaria {
 const conta = new ContaBancaria("Maria", 1000);
 conta.depositar(500);
 conta.sacar(200);
+export {};
 //# sourceMappingURL=exercicio1.js.map

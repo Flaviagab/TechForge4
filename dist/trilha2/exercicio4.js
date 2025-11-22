@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Exercício 4
 class Temperatura {
     constructor(valor) {
@@ -16,4 +14,5 @@ class Temperatura {
 const temp = new Temperatura(25);
 console.log("Fahrenheit: " + temp.converterFahrenheit());
 console.log("Kelvin: " + temp.converterKelvin());
+export {};
 //# sourceMappingURL=exercicio4.js.map
